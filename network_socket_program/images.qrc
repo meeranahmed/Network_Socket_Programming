@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>SendButton.png</file>
+    <file>doctor.jpg</file>
+  </qresource>
+</RCC>
